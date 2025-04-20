@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 🚀 About Me<br><br>🔭 Currently researching & building cool stuff in AI  <br>🤝 Open to collab on impactful GenAI + startup projects  <br>🧠 Looking for help with AI deployment & cloud workflows  <br>🌱 Learning Python, Machine Learning & Cloud Deployment  <br>💬 Ask me about public speaking, AI tools & my startup vision  <br>⚡ Fun fact: I feel most alive when I’m on stage speaking 💥<br>
 
 
