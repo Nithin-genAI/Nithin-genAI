@@ -8,15 +8,42 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-🔭 **Currently researching & building** cool stuff in Agentic AI — autonomous agents, multi-agent orchestration & real-world AI systems
-🤖 **Agentic AI Engineer** passionate about designing intelligent agents that plan, reason, and act autonomously
-🤝 **Open to collab** on impactful GenAI + startup projects
-🧠 **Exploring** LLM fine-tuning, RAG pipelines, AI deployment & cloud-native agentic workflows
-🌱 **Learning** Advanced Agent Architectures, LangGraph, CrewAI & Production AI Systems
-💬 **Ask me about** Agentic AI, LLMs, public speaking, AI tools & my startup vision
-⚡ **Fun fact:** I feel most alive when I'm on stage speaking — and when my agents actually work 💥
+# 🚀 About Me
+
+<table>
+<tr>
+<td align="left" width="50%">
+
+### 🔭 Currently Building
+> Autonomous AI agents, multi-agent orchestration & real-world AI systems in **Agentic AI**
+
+### 🤖 Role
+> **Agentic AI Engineer** — designing intelligent agents that plan, reason & act autonomously
+
+### 🤝 Open To
+> Collaborating on impactful **GenAI + startup projects**
+
+</td>
+<td align="left" width="50%">
+
+### 🧠 Exploring
+> LLM fine-tuning, RAG pipelines, AI deployment & **cloud-native agentic workflows**
+
+### 🌱 Learning
+> Advanced Agent Architectures, **LangGraph**, **CrewAI** & Production AI Systems
+
+### 💬 Ask Me About
+> Agentic AI · LLMs · Public Speaking · AI Tools · **My Startup Vision**
+
+</td>
+</tr>
+</table>
+
+⚡ ***Fun fact: I feel most alive when I'm on stage speaking — and when my agents actually work 💥***
+
+</div>
 
 ---
 
